@@ -1,0 +1,51 @@
+img {
+    margin: 0 auto;
+    scale: 75%;/*Sets the scale of the img*/
+  }
+
+  h1 { /*Heading style*/
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(214, 91, 60);
+    text-shadow: 2px 2px 1px black;
+  }
+  h2 { /*Second heading style*/
+    font-size: 60px;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(189, 40, 65);
+    text-shadow: 2px 2px 1px black;
+  }
+  p{ /*Paragraph style*/
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  dt { /*Desciption Term*/
+    font-size: 22px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html { /*Html styling*/
+    font-size: 10px;
+    background-color: rgb(233, 178, 77);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+
+  dl{ /*Desciption List*/
+    font-size: 18px;
+
+  }
+  ol{ /*Ordered List*/
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  li{ /*List Element Style*/
+    font-size: 18px;
+  }

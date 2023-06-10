@@ -1,0 +1,37 @@
+img {
+    margin: 0 auto;
+    scale: 75%;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(173, 33, 173);
+    text-shadow: 2px 2px 1px black;
+  }
+  h2 {
+    font-size: 60px;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(189, 112, 40);
+    text-shadow: 2px 2px 1px black;
+  }
+  p{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    background-color: rgb(121, 12, 12);
+    font-family: "Roboto", roboto-condensed; /* this should be the rest of the output you got from Google Fonts */
+  }
